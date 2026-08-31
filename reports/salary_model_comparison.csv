@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Median baseline,8.845,15.591,-0.047
+Multiple linear regression,6.208,11.039,0.475
+K-nearest neighbours,5.721,10.903,0.488

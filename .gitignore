@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Do not upload raw datasets
+data/raw/*.csv
+
+# Ignore generated processed datasets
+data/processed/*.parquet
